@@ -5,6 +5,6 @@
 - 📫 How to reach me 08149911788
 
 <!---
-X-CodeMaster/X-CodeMaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+X-CodeMaster/CodeMaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
